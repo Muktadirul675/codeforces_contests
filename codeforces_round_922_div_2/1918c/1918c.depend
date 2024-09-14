@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706628084 source:/home/kali/Desktop/c++/problems/contests/codeforces_round_922_div_2/1918c/main.cpp
+	<iostream>
+	<cstdlib>
+
